@@ -8,7 +8,7 @@ A simple command line application that allows users to generate an SVG logo. The
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
-- [Screenshot](#screenshot)
+- [Screenshot](#example-logo)
 - [License](#license)
 - [Contributing](#contributing)
 - [Tests](#tests)
@@ -20,7 +20,7 @@ Download or clone the repo to your local codespace, install the required package
 ## Usage
 This project is intended to be used by anybody who wants to create a simple, free, logo for their project.
 
-## Example Logo
+## Example-Logo
 ![Screenshot](./logo.svg)
 
 ## License
